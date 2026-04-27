@@ -1,7 +1,7 @@
 # ⚡ Anshul | Aspiring Motorsports Systems Engineer
 
-```
-████████████████████████████████████████
+```text
+███████████████████████████████████████████████
 █                                             █
 █  PIT WALL CONTROL — SYSTEM ONLINE           █
 █                                             █
@@ -9,12 +9,12 @@
 █  Focus: FIA WEC | Formula 1 Pipeline        █
 █  Active: Full Stack Architecture            █
 █                                             █
-████████████████████████████████████████
+███████████████████████████████████████████████
 ```
 
 ---
 
-##  Mission Objective
+## Mission Objective
 
 Engineer systems that matter. Focus on **motorsports telemetry, real-time data handling, and race strategy optimization**. Currently building the infrastructure to understand endurance racing from the inside out—data pipeline by data pipeline.
 
@@ -22,9 +22,9 @@ Target: **F1 / Motorsports Engineering Role** — mechanical, automotive, or mec
 
 ---
 
-##  PRIMARY SYSTEM: WEC Pitwall
+## PRIMARY SYSTEM: WEC Pitwall
 
-**Live Companion App for FIA World Endurance Championship**
+### Live Companion App for FIA World Endurance Championship
 
 ![Project Status](https://img.shields.io/badge/Status-BETA-E8002D?style=flat-square&labelColor=000000)
 
@@ -35,7 +35,8 @@ Target: **F1 / Motorsports Engineering Role** — mechanical, automotive, or mec
 **What it does:** Real-time race data aggregation, team performance tracking, and endurance strategy visualization. Built for fans who understand pit strategy the way engineers do.
 
 **Stack:**
-```
+
+```text
 Frontend:    React 18 + TypeScript + Vite
 Styling:     Tailwind CSS + Custom Motion
 Backend:     Supabase (PostgreSQL + RLS)
@@ -45,17 +46,19 @@ Data Layer:  FIA WEC fixture integration (planned)
 ```
 
 **Links:**
--  [Live Website](https://wec-pitwall.vercel.app)
--  [Repository](https://github.com/SpiffyNyanXD/wec-pitwall)
--  [Beta Feedback Form](https://forms.gle/YHTZtoX59xzVsoUP9)
+
+- [Live Website](https://wec-pitwall.vercel.app)
+- [Repository](https://github.com/SpiffyNyanXD/wec-pitwall)
+- [Beta Feedback Form](https://forms.gle/YHTZtoX59xzVsoUP9)
 
 **Current Phase:** Design stabilization → Data layer migration → Live telemetry feeds
 
 ---
 
-##  Systems & Architecture
+## Systems & Architecture
 
-**Full-Stack Web Development**
+### Full-Stack Web Development
+
 - Database design with role-level security (RLS policies)
 - Real-time state management across client and server
 - Deployment pipelines with CI/CD integration
@@ -65,14 +68,16 @@ Data Layer:  FIA WEC fixture integration (planned)
 
 ---
 
-##  Knowledge Depth
+## Knowledge Depth
 
 **Motorsports Systems:**
+
 - Formula 1 architecture (powertrain, aerodynamics, strategy)
 - Endurance racing dynamics (fuel management, tire degradation, driver changes)
 - Real-time telemetry interpretation
 
 **Audio-Visual Technology:**
+
 - Immersive formats (Dolby Atmos, Dolby Vision, IMAX)
 - High-fidelity content preservation
 - Display technology and color science
@@ -81,10 +86,10 @@ Data Layer:  FIA WEC fixture integration (planned)
 
 ---
 
-##  Technical Toolkit
+## Technical Toolkit
 
 | Category | Tools |
-|----------|-------|
+| -------- | ----- |
 | **Languages** | TypeScript, JavaScript, SQL |
 | **Frontend** | React, Tailwind CSS, shadcn/ui |
 | **Backend** | Supabase, PostgreSQL |
@@ -94,9 +99,9 @@ Data Layer:  FIA WEC fixture integration (planned)
 
 ---
 
-##  Current Activity
+## Current Activity
 
-```
+```text
 Last 7 Days:
 ├─ WEC Pitwall: Active development
 ├─ Focus: Skeleton screens + Boneyard integration
@@ -105,15 +110,17 @@ Last 7 Days:
 ```
 
 **Preferred AI Dev Stack:**
+
 - Claude (architecture, logic)
 - v0.dev (UI components)
 - Jules (background tasks post-stabilization)
 
 ---
 
-##  Learning Path
+## Learning Path
 
 Depth-first approach to knowledge:
+
 1. **Systems thinking** — understand how complex systems work from first principles
 2. **Implementation** — build real projects that demand the knowledge
 3. **Iteration** — refine based on constraints and feedback
@@ -123,7 +130,7 @@ Currently: Full-stack web architecture → Systems design patterns → Real-time
 
 ---
 
-##  Why These Projects Matter
+## Why These Projects Matter
 
 Every line of code here is a test. Every system built is proof that you understand complexity. F1 teams don't hire people who've built todo apps. They hire engineers who understand telemetry, data pipelines, real-time systems, and decision-making under pressure.
 
@@ -131,34 +138,37 @@ WEC Pitwall is my evidence that I think like an engineer, not a coder.
 
 ---
 
-##  Stats (Raw Numbers)
+## Stats (Raw Numbers)
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SpiffyNyanXD&theme=github_dark&hide_border=true&show_icons=true&include_all_commits=true&count_private=false)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SpiffyNyanXD&theme=github_dark&hide_border=true&layout=compact&count_private=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SpiffyNyanXD&theme=github_dark&hide_border=true&layout=compact)
 
 ---
 
-##  What's Next
+## What's Next
 
 **Q2 2026:**
+
 - Boneyard integration (skeleton screens)
 - Live WEC fixture data migration
 - Performance optimization (mobile-first)
 
 **Q3 2026:**
+
 - Real-time telemetry feeds
 - Strategy analysis dashboards
 - Community feedback iteration
 
 **Horizon:**
+
 - F1 adjacent projects
 - Motorsports data systems
 - Role: Automotive/Mechanical/Mechatronics Engineering
 
 ---
 
-##  Notes
+## Notes
 
 - **No budget constraint culture:** Mobile-first by necessity, refined by design
 - **Knowledge-first thinking:** Understand systems deeply before building
@@ -169,11 +179,11 @@ WEC Pitwall is my evidence that I think like an engineer, not a coder.
 
 **Last Updated:** Actively maintained | Check WEC Pitwall for latest developments
 
-```
-████████████████████████████████████████
+```text
+███████████████████████████████████████████████
 █  End Pit Wall Control Log                   █
 █  Next Update: Post-stabilization phase      █
-████████████████████████████████████████
+███████████████████████████████████████████████
 ```
 
 <!--
