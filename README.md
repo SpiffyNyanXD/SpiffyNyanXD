@@ -6,7 +6,7 @@
 █  PIT WALL CONTROL — SYSTEM ONLINE       █
 █                                         █
 █  Status: Building Real-Time Telemetry   █
-█  Focus: FIA WEC | Formula 1 Pipeli      █
+█  Focus: FIA WEC | Formula 1 Pipeline    █
 █  Active: Full Stack Architecture        █
 █                                         █
 █████████████████████████████████████
