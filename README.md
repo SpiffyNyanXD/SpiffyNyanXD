@@ -27,7 +27,9 @@ Target: **F1 / Motorsports Engineering Role** — mechanical, automotive, or mec
 **Live Companion App for FIA World Endurance Championship**
 
 ![Project Status](https://img.shields.io/badge/Status-BETA-E8002D?style=flat-square&labelColor=000000)
+
 ![Deployment](https://img.shields.io/badge/Deployed-Vercel-000000?style=flat-square&logo=vercel)
+
 ![Type](https://img.shields.io/badge/Type-React%20|%20TypeScript-61DAFB?style=flat-square&labelColor=000000)
 
 **What it does:** Real-time race data aggregation, team performance tracking, and endurance strategy visualization. Built for fans who understand pit strategy the way engineers do.
