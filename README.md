@@ -180,10 +180,10 @@ WEC Pitwall is my evidence that I think like an engineer, not a coder.
 **Last Updated:** Actively maintained | Check WEC Pitwall for latest developments
 
 ```text
-███████████████████████████████████████████████
+████████████████████████████████████████
 █  End Pit Wall Control Log                   █
 █  Next Update: Post-stabilization phase      █
-███████████████████████████████████████████████
+████████████████████████████████████████
 ```
 
 <!--
