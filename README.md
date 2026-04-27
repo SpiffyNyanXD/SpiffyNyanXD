@@ -1,15 +1,15 @@
 # ⚡ Anshul | Aspiring Motorsports Systems Engineer
 
 ```
-███████████████████████████████████████████████
+████████████████████████████████████████
 █                                             █
 █  PIT WALL CONTROL — SYSTEM ONLINE           █
 █                                             █
-█  Status: Building Real-Time Telemetry      █
-█  Focus: FIA WEC | Formula 1 Pipeline       █
-█  Active: Full Stack Architecture           █
+█  Status: Building Real-Time Telemetry       █
+█  Focus: FIA WEC | Formula 1 Pipeline        █
+█  Active: Full Stack Architecture            █
 █                                             █
-███████████████████████████████████████████████
+████████████████████████████████████████
 ```
 
 ---
@@ -168,10 +168,10 @@ WEC Pitwall is my evidence that I think like an engineer, not a coder.
 **Last Updated:** Actively maintained | Check WEC Pitwall for latest developments
 
 ```
-███████████████████████████████████████████████
+████████████████████████████████████████
 █  End Pit Wall Control Log                   █
 █  Next Update: Post-stabilization phase      █
-███████████████████████████████████████████████
+████████████████████████████████████████
 ```
 
 <!--
